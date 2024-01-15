@@ -1,3 +1,11 @@
+# Authentication with next-auth
+
+This is an exercise about authentication from Udemy course [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide). The app is not deployed to any environment.
+
+Integrations:
+- MongoDb.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
